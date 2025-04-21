@@ -1,0 +1,3 @@
+javac -cp ".;lib\*" ProductRecommender.java
+
+java -cp ".;lib\*" ProductRecommender
